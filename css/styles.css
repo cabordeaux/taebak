@@ -1,0 +1,96 @@
+﻿body { background-color:#eeeeee; }
+
+#wrapper { width:900px; margin:0px auto; background-image:url('../images/web image gallery/topo2.png'); background-attachment:fixed; }
+
+#top { background-image:url('800x518_Vector-Topographic-Map-Contours-Preview-1.jpg'); background-attachment:fixed; width:100%; padding:20px 0; overflow:hidden; }
+
+#logo { margin:0 0 0 10px; float:left; }
+
+#social-media {float:right; margin:0px 10px 0 0px; }
+#social-media p {color: #000000; font-size:11px; font-family:"Franklin Gothic Book"; margin:4px 10px 4px 39px; }
+#social-media img { width:25px; height:25px; margin:0px 10px 0 0; }
+#social-media ul li { display:inline;}
+
+#social-media a:hover { color:#FFFFFF;  display:table-cell; }
+#social-media a:active {color:black;  } 
+
+#topnav { background-color:gray; clear:both;}
+#topnav ul {width:860.4px; margin:0px; background-color:#B6B6B4; float:left;
+				border-bottom:3px #fffffc solid }
+				
+#topnav ul li {display:inline;}
+#topnav ul li a {float:left;padding:10px 20px;}
+
+#topnav a:link {color:black;}
+#topnav a:visited {color:black;}
+#topnav a:active {color:black;}
+#topnav a:hover {color:#black;background-image:url('800x518_Vector-Topographic-Map-Contours-Preview-1.jpg'); } 
+#topnav a:focus {color:#black;}
+
+
+
+#banner { background-image:url('Richtunn%20website%20img.jpg'); width:900px; height:599px; } 
+
+
+#leftside { float:left; width:420px; margin-bottom:0px; padding-left:20px; }
+#leftside h6 { font-size:11.5px; margin-bottom:0px; color:#FFFFFF; }
+
+#table { padding:1px; margin-left:445px; }
+
+
+#additional { width:900px; margin-bottom:59px; }
+#additional h3 { font-family:"Franklin Gothic Medium"; padding-left:39px; padding-top:39px; font-size:21px; font-weight:900; }
+
+ 
+#words { width:900px; }
+#words p { font-weight:600; font-size:21px; font-family:"Franklin Gothic Book"; color:black; padding-left:40px; margin-right:130px; margin-left:5px; }
+
+#other { overflow:hidden; border-bottom:thick #B6B6B4 solid; margin-right:12px; margin-left:12px; }
+
+#photo { float:left; width:500px; margin-left:14px; margin-top:20px; margin-bottom:20px; }
+#photo p { font-size:21px; font-family:"Franklin Gothic Book"; padding-left:15px; padding-bottom:20px; height:0px; }
+
+#layers { margin-left:500px; margin-top:30px; margin-bottom:10px; }
+#layers ul li { display:inline; }
+
+#onethereis { overflow:hidden; border-bottom:thick #B6B6B4 solid; margin-right:11px; margin-left:11px;  }
+
+#jade { width:375px; float:left; margin-left:10px; margin-top:5px; }
+#jade p { font-family:"Franklin Gothic Book"; font-size:21px; padding-left:15px; padding-bottom:25px; height:1px; }
+
+#emerald { margin-left:500px; margin-top:5px; }
+#emerald img { margin-right:30px; }
+#emerald ul li { display:inline; }
+ 
+
+
+#streets { overflow:hidden; border-bottom:thick #B6B6B4 solid; margin-right:11px; margin-left:11px; }
+
+#highway { float:left; width:450px; margin-left:15px; margin-top:5px; }
+#highway p {font-family:"Franklin Gothic Book"; font-size:21px; padding-left:15px; padding-bottom:25px; height:1px; }
+
+#freeway { margin-left:500px; margin-top:5px; margin-bottom:1px; }
+#freeway img { margin-right:1px; }
+#freeway ul li { display:inline; }
+
+#last { overflow:hidden; border-bottom:thick #B6B6B4 solid; }
+
+#first { float:left; width:300px; margin-top:5px; margin-bottom:15px; margin-left:19px; }
+#first p {font-family:"Franklin Gothic Book"; font-size:21px; padding-left:25px; padding-bottom:20px; height:1px; }
+
+#second { margin-left:511px; margin-top:5px; }
+#second img { margin-right:16px; }
+#second ul li { display:inline; }
+
+
+#subsea { overflow:hidden; padding-bottom:35px; }
+
+#futuretech { margin: }
+#futuretech p { color:black; padding: 20px 45px 20px 45px; font-family:"Franklin Gothic Book"; font-size:21px; text-align:left; }
+#futuretech ul li { display:block; }
+#futuretech img { padding-bottom:20px; }
+
+
+#footer { clear:both; padding:2px 0px; font-family:"Franklin Gothic Book"; font-size:15px ;font-style:normal; text-align:center; background-image:url('800x518_Vector-Topographic-Map-Contours-Preview-1.jpg'); background-attachment:fixed; }
+#footer p {width:100%; color:#000000; }
+

@@ -1,0 +1,71 @@
+﻿body {background-color:#eeeeee;}
+
+#wrapper { width:900px; margin:0px auto; background-color:#ffffff;}
+
+#top {background-image:url('800x518_Vector-Topographic-Map-Contours-Preview-1.jpg'); background-attachment:fixed; width:100%; padding:20px 0; overflow:hidden; }
+
+#logo { margin:0 0 0 10px; float:left; }
+
+#social-media {float:right; margin:0px 10px 0 0px; }
+#social-media p {color: #000000; font-size:11px; font-family:"Franklin Gothic Book"; margin:4px 10px 4px 39px; }
+#social-media img { width:25px; height:25px; margin:0px 10px 0 0; }
+#social-media ul li { display:inline;}
+
+#social-media a:hover {color:#FFFFFF; display:table-cell; }
+#social-media a:active {color:black;  } 
+
+#topnav { background-color:gray; clear:both;}
+#topnav ul {width:860.4px; margin:0px; background-color:#B6B6B4; float:left;
+				border-bottom:3px #fffffc solid }
+				
+#topnav ul li {display:inline;}
+#topnav ul li a {float:left; padding:10px 20px;  }
+
+#topnav a:link {color:black; }
+#topnav a:visited {color:black;}
+#topnav a:active {color:black;}
+#topnav a:hover {color:#black;background-image:url('800x518_Vector-Topographic-Map-Contours-Preview-1.jpg'); } 
+#topnav a:focus {color:#black;}
+
+
+
+#banner { background-image:url('../images/web image gallery/topo2.png'); padding-top:50px; padding-left:37px; padding-bottom:80px; margin:0 0; }
+#banner h3 {font-family:"Franklin Gothic Medium"; color:black; margin-bottom:50px; padding-top:25px; }
+#banner h4 { font-family:"Franklin Gothic Book"; margin-bottom:20px; }
+#banner p { font-family:"Franklin Gothic Book"; line-height:7px; }
+
+#banner a:link { color:#0033CC; }
+#banner a:visited { color:#003399; }
+#banner a:active { color:#000099; }
+#banner a:hover { color:#000099; }
+
+#subbanner { background-color:#B6B6B4; overflow:hidden; width:100% ; padding-top:3px; }
+#subbanner h3 { color:000000; font-family:"Franklin Gothic Medium"; }
+#subbanner p { font-family:"Franklin Gothic Book"; }
+
+#subbanner ul li { display:inline-block; }
+
+#subbanner a:link { color:black; }
+#subbanner a:visited { color:black; }
+#subbanner a:active { color:black; }
+#subbanner a:hover { color:black; }
+#subbanner a:focus {color:black; }
+
+
+
+#content { width:100%; padding:40px 40px 40px 40; margin:0 20 0 20; }
+
+#content h1 { background-color: #f0ffff; padding-top:15px; padding-bottom:20px; padding-left:20px; border-bottom:thin #333333 solid; font-style:normal; font-family:"Franklin Gothic Medium"; letter-spacing:5px; }
+
+#content p { font-family:"Franklin Gothic Book"; font-weight:bolder; font-style:normal; text-align:center; margin-left:20px; font-size:19px; padding:10px 0px; margin-top:0px; margin-bottom:10px; letter-spacing:1px; }
+
+#content ul li {display:inline; }
+
+#content ul li img {width:250px; height:190px; border-right:1px #333333 solid; padding-right:12px; margin-right:12px; } 
+
+
+
+#footer { clear:both; padding:2px 0px; font-family:"Franklin Gothic Book"; font-size:15px ;font-style:normal; text-align:center; background-image:url('800x518_Vector-Topographic-Map-Contours-Preview-1.jpg'); background-attachment:fixed; }
+#footer p {width:100%; color:#000000; }
+
+
