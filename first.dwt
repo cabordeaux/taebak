@@ -1,0 +1,108 @@
+﻿<!DOCTYPE HTML>
+<html>
+
+	<head>
+		<!-- #BeginEditable "doctitle" -->
+		<title>Celebrating Our 54 Years of Engineering</title>
+		<!-- #EndEditable -->
+		<link href="css/styles2.css" rel="stylesheet" type="text/css" media="screen">
+		<style type="text/css">
+		
+				
+		.auto-style6 {
+	text-decoration: none;
+}
+				
+		.auto-style7 {
+	font-family: "Franklin Gothic Medium";
+}
+				
+		</style>
+	</head>
+	
+	<body>
+	
+	<div id="wrapper">	
+		
+		<div id="top">
+		
+			<div id="logo">
+				<img src="Verite-logo.png" height="110" width="500" />
+			</div>
+		
+			<div id="social-media">
+				<p class="auto-style7">Connect With Us</p>
+				<ul>
+					<li><a href="https://www.facebook.com/TAEAssociates/photos_stream?ref=page_internal">
+					<img src="images/banner images/social media facebook.jpg" height="50" width="50" /></a></li>
+					<li><a href="https://www.linkedin.com/company/transamerican-engineers-&-associates">
+					<img src="images/banner images/social media contact.png" height="50" width="50" /></a></li>
+					<li><a href="http://www.yelp.com/biz/transamerican-engineers-and-associates-san-francisco-3">
+					<img src="images/banner images/yelp-icon.png" height="50" width="50" /></a></li>
+									</ul>
+				<p class="auto-style7">contact us today for more info 415 553 4092</p>
+				
+			</div>
+			
+		</div>
+		
+		<div id="topnav">
+			<ul>
+				<li class="auto-style7"><a href="index.html" class="auto-style6">
+				HOME</a></li>
+				<li class="auto-style7"><a href="company.html" class="auto-style6">
+				COMPANY</a></li>
+				<li class="auto-style7"><a href="services.html" class="auto-style6">
+				SERVICES</a></li>
+				<li class="auto-style7"><a href="fifth.html" class="auto-style6">
+				CLIENTS</a></li>
+				<li class="auto-style7"><a href="sixth.html" class="auto-style6">
+				PRESS</a></li>
+				<li class="auto-style7"><a href="seveth.html" class="auto-style6">
+				AWARDS</a></li>
+			</ul>
+		</div>
+		
+		<!-- #BeginEditable "banners" -->
+		
+		<div id="banner">
+			<img src="images/banner images/jp garden.jpg" height="599" width="900" />
+		</div>
+		
+		<div id="subbanner">
+			<h3>Development Engineering, Surveying and Planning</h3>
+			<h4>From Labor Intensive to Cyberspace Surveying 1961-Present</h4>
+		</div>
+				
+		<!-- #EndEditable -->
+				
+		<div id="content">
+			<!-- #BeginEditable "content" -->
+			<h1>"A Dynamic Past, A Challenging Future."</h1>
+			<p>Celebrating Our 56 Years of Excellence</p>
+			
+			<ul>
+				<li><img src="images/banner images/airport.jpg" /></li>
+				<li><img src="images/banner images/bridge 8.jpg" /></li>
+				<li><img src="images/banner images/bridge 1.jpg" /></li>
+			</ul>
+			
+			<p>Envisioning Our Golden Anniversary</p>
+			
+		<!-- #EndEditable -->
+			
+		</div>
+		
+		
+
+		
+				
+		<div id="footer">
+			<p>Copyright &copy; 2015 Transamerican Engineers. All Rights Reserved.</p>
+		</div>
+		
+	</div>
+		
+	</body>
+	
+</html>	
