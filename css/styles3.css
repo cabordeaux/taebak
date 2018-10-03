@@ -27,15 +27,64 @@
 #topnav a:hover {color:black; background-image:url('800x518_Vector-Topographic-Map-Contours-Preview-1.jpg'); } 
 #topnav a:focus {color:black;}
 
-#jssummary { font-family:"Franklin Gothic Book"; font-weight:lighter; padding-left:45px; padding-right:40px; padding-top:35px; padding-bottom:50px; background-image:url('../images/web image gallery/topo2.png'); background-attachment:fixed; }
-#jssummary h1 { padding-top:40px; padding-bottom:50px; font-family:"Franklin Gothic Medium"; font-size:21px; font-weight:900; }
-#jssummary h3 { font-family:"Franklin Gothic book"; font-weight:500; font-size:21px; }
+#jssummary { 
+	font-family:"Franklin Gothic Book"; 
+	font-weight:lighter; 
+	padding-left:45px; 
+	padding-right:40px; 
+	padding-top:35px; 
+	padding-bottom:50px; 
+	background-image:url('800x518_Vector-Topographic-Map-Contours-Preview-1.jpg'); 
+	background-attachment:fixed; 
+	}
 
-#philosophy { padding-bottom:20px; margin-top:45px; }
-#philosophy h2 { font-family:"Franklin Gothic book"; border-bottom:1px #B6B6B4 solid; text-align:right; margin-top:auto; padding-top:50px; padding-right:10px; margin-left:100px;}
-#philosophy p { font-family:"Franklin Gothic book"; font-weight:500; font-size:21px; text-align:left; padding-right:10px; margin-left:10px; padding-top:30px; height:70px; height:90px; }
-#philosophy ul li {display:inline; }
+#jssummary h1 { 
+	padding-top:40px; 
+	padding-bottom:50px; 
+	font-family:"Franklin Gothic Medium";
+	font-size:21px; 
+	font-weight:900; 
+	}
+#jssummary h3 { 
+	font-family:"Franklin Gothic book"; 
+	font-weight:500; 
+	font-size:21px; 
+	}
 
+#philosophy { 
+	padding-bottom:20px; 
+	margin-top:45px; 
+	}
+#philosophy h2 { 
+	font-family:"Franklin Gothic book"; 
+	border-bottom:1px #B6B6B4 solid; 
+	text-align:right; 
+	margin-top:auto;
+	padding-top:50px; 
+	padding-right:10px; 
+	margin-left:100px;
+	}
+#philosophy p { 
+	font-family:"Franklin Gothic book"; 
+	font-weight:500; 
+	font-size:21px; 
+	text-align:left; 
+	padding-right:10px; 
+	margin-left:10px; 
+	padding-top:30px; 
+	height:70px; 
+	height:90px; 
+	}
+#philosophy ul li {
+	display:inline; 
+	}
+
+/*#additional {
+	display:block;
+	}
+#additional ul li {display:block; list-style-type: none;}*/
+
+#layers ul li 
 
 #history { padding-bottom:0px; padding-top:15px; }
 #history h2 { font-family:"Franklin Gothic book"; border-bottom:1px #B6B6B4 solid; padding-left:10px; margin-right:140px; padding-top:35px; }
